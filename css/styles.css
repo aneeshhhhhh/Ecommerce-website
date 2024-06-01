@@ -94,7 +94,7 @@ section{
     position: relative;
     height: 100vh;
     width: 100%;
-    background: url("app/assets/Quiet-Luxury-Minimalismus-trifft-Luxus-Kleidung.webp");
+    background: url("../app/assets/Quiet-Luxury-Minimalismus-trifft-Luxus-Kleidung.webp");
     background-size: cover;
     background-position: center;
     display: flex;
